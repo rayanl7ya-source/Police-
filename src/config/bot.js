@@ -381,7 +381,7 @@ export const botConfig = {
       // Channel type used for counters (typically "voice").
       type: "voice",
       // Channel name format. `{count}` is replaced automatically.
-      channelName: "{name}-{count}",
+      channelName: "{name'Vc}-{count}",
     },
     permissions: {
       // Default denied permissions for the counter channel.
